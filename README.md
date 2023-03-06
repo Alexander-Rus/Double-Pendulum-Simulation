@@ -1,6 +1,6 @@
 # Double Pendulum Simulation in C++
 
-https://user-images.githubusercontent.com/24681610/223163624-040d05c9-5b9b-4235-af1b-689e3c762200.mov
+![output-2023-03-06_10_42_17_edit_AdobeExpress](https://user-images.githubusercontent.com/24681610/223173358-67399853-79c2-4cd9-8b00-c87e146092a3.gif)
 
 This program demonstrates a double pendulum simulation in C++ and SFML. Using our simulation in C++, we can visualize the path the second pendulum weight takes as it is affected by the motion of the first pendulum.
 
